@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fenerbahçe'nin Avrupa Serüveni</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #0b3d91;
+      color: #ffd700;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    .haber {
+      margin-bottom: 30px;
+      border-left: 5px solid #0b3d91;
+      padding-left: 15px;
+    }
+    .haber h2 {
+      margin: 0 0 10px 0;
+      color: #0b3d91;
+    }
+    .durum {
+      font-weight: bold;
+    }
+    .basari {
+      color: green;
+    }
+    .yenilgi {
+      color: red;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #eee;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Fenerbahçe'nin Avrupa'daki Güncel Durumu</h1>
+    <p>Başarılar, yenilgiler ve maç analizleri</p>
+  </header>
+
+  <div class="container">
+
+    <div class="haber">
+      <h2>Avrupa Kupası Son Maç</h2>
+      <p>
+        Fenerbahçe, Avrupa arenasında oynadığı son maçta mücadele gücü yüksek bir performans sergiledi.
+        Orta sahada topa sahip olma oranı yüksek olan sarı-lacivertliler, özellikle ikinci yarıda baskısını artırdı.
+      </p>
+      <p class="durum basari">Durum: Başarılı Performans</p>
+    </div>
+
+    <div class="haber">
+      <h2>Zorlu Deplasman Yenilgisi</h2>
+      <p>
+        Zorlu deplasmanda oynanan maçta Fenerbahçe savunmada zaman zaman hatalar yaptı.
+        Rakibin hızlı hücumları karşısında direnç gösterilse de skor avantajı sağlanamadı.
+      </p>
+      <p class="durum yenilgi">Durum: Yenilgi</p>
+    </div>
+
+    <div class="haber">
+      <h2>Genel Avrupa Analizi</h2>
+      <p>
+        Fenerbahçe'nin Avrupa'daki genel görüntüsü umut verici. Takımın hücum gücü ve taraftar desteği
+        önemli bir avantaj sağlarken, savunma organizasyonunda gelişime ihtiyaç duyuluyor.
+      </p>
+      <p class="durum">Genel Durum: İstikrarlı Gidişat</p>
+    </div>
+
+  </div>
+
+  <footer>
+    <p>© 2025 Fenerbahçe Avrupa Haberleri | GitHub için örnek proje</p>
+  </footer>
+
+</body>
+</html>
